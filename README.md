@@ -1,14 +1,13 @@
-const Luis = {
+
+const Yonatan = {
   pronouns: 'he' || 'him',
   code: {
-      languages: [ "Php", "Python", "JavaScript", "TypeScript", "java", "c#" ],
-      database: ["SQL", "My SQL","MONGO" ],
-      backEnd: [ "Laravel", "Django","NodeJs", "Express", "Springboot"],
-      frontEnd: [ "React", "Angular", "bootstrap", "NextJs", "Talwind", "HTML", "CSS "],
-      mobil: [ "Flutterflow"],
-      data science: [ "Pandas", "Numpy", "Scipy", "Matplolib", "Seaborn"],
+      languages: [ "JavaScript", "TypeScript" ],
+      database: ["PostgreSQL" ],
+      backEnd: [ "NodeJs", "Express", "Sequelize"],
+      frontEnd: [ "React", "Redux", "Next", "Talwind", "CSS modules" ],
         },
   contact: {
-      email: "lincolherreraf@gmail.com"
+      email: "yonatanllanto175@gmail.com"
       }
 };
