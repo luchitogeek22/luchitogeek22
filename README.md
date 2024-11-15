@@ -1,7 +1,7 @@
 <h1 align="center"> 🌌 Bienvenidos al Laboratorio de IA de Luchitogeek 🌌 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3b/e2/f4/3be2f445535301ebc8d739576ce8b36d.gif" alt="Androide IA" width="100"/> <!-- Reemplaza con el link de tu imagen de androide o IA -->
+  <img src="https://i.pinimg.com/originals/3b/e2/f4/3be2f445535301ebc8d739576ce8b36d.gif" alt="Androide IA" width="250"/> <!-- Reemplaza con el link de tu imagen de androide o IA -->
 </p>
 
 <p align="center">
