@@ -1,4 +1,4 @@
-<h1 align="center"> 🌌 Bienvenidos al Laboratorio de IA de [Tu Nombre] 🌌 </h1>
+<h1 align="center"> 🌌 Bienvenidos al Laboratorio de IA de Luchitogeek 🌌 </h1>
 
 <p align="center">
   <img src="https://link-a-tu-imagen-android" alt="Androide IA" width="250"/> <!-- Reemplaza con el link de tu imagen de androide o IA -->
@@ -83,5 +83,5 @@ Cada línea de código y cada modelo que desarrollo están inspirados por mi mis
 ---
 
 <p align="center">
-  <img src="https://link-a-tu-imagen-fondo-futurista" alt="Fondo futurista IA" width="600"/> <!-- Inserta un enlace a una imagen de fondo futurista de IA -->
+  <img src="https://i.pinimg.com/originals/3b/e2/f4/3be2f445535301ebc8d739576ce8b36d.gif" alt="Fondo futurista IA" width="600"/> <!-- Inserta un enlace a una imagen de fondo futurista de IA -->
 </p>
