@@ -101,5 +101,5 @@ Comprometido en llevar la inteligencia artificial y el desarrollo web a nuevas a
 ---
 
 <p align="center">
-  <img src="https://link-a-tu-imagen-futurista" alt="Fondo futurista" width="600"/> <!-- Reemplaza con el link de una imagen futurista -->
+  <img src="[https://link-a-tu-imagen-futurista](https://i.pinimg.com/originals/3b/e2/f4/3be2f445535301ebc8d739576ce8b36d.gif)" alt="Fondo futurista" width="600"/> <!-- Reemplaza con el link de una imagen futurista -->
 </p>
