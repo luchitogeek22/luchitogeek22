@@ -28,7 +28,7 @@
 ## 🧠 Visualización de Conocimientos: Conexión entre Ciencia y Código
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*-eLjPY7UGSoQhSyW5qC6gw.gif" alt="Red Neuronal" width="150"/> <!-- Inserta un enlace a una visualización de red neuronal -->
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*-eLjPY7UGSoQhSyW5qC6gw.gif" alt="Red Neuronal" width="300"/> <!-- Inserta un enlace a una visualización de red neuronal -->
 </p>
 
 <p align="center">
